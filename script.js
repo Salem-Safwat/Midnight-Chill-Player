@@ -7,7 +7,7 @@ var progress = document.querySelector('.progress');
 var progressContainer = document.querySelector('.progress-container');
 var title = document.querySelector('#title');
 var cover = document.querySelector('#cover');
-var sounds = ['Ocean Waves', 'Rain'];
+var sounds = ['Ocean', 'Rain'];
 var soundIndex = 0;
 loadSound(sounds[soundIndex]);
 function loadSound(sound) {
