@@ -1,4 +1,4 @@
-![Web Preview](Web Prev.png)
+![Web Preview](Web%20Prev.png)
 
 # Midnight Chill Player
 
